@@ -1,4 +1,4 @@
 blackjack
 =========
 
-Console based BlackJack game
+Console based BlackJack game.
